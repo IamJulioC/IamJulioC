@@ -7,8 +7,8 @@
 ### 📊 GitHub Stats & Commit Activity
 
 <div align="center">
-  <!-- Card de Cadência Diária / Streak (URL Corrigida) -->
-  <img src="https://streak-stats.demolab.com/?user=IamJulioC&theme=tokyonight&hide_border=true" alt="Júlio's Commit Streak" />
+  <!-- Gráfico de Atividade de Commits (Substitui o Streak e evita erros) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamJulioC&theme=tokyonight&hide_border=true&area=true" alt="Júlio's Activity Graph" />
   
   <br /><br />
 
@@ -88,4 +88,25 @@
 
 **Databases, Infrastructure & Tools**
 <div>
-  <img src="
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/iamjulioc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iamjulioc1806@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/iamjulioc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
