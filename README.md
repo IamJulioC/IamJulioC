@@ -7,8 +7,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IamJulioC&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="Júlio's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJulioC&layout=compact&langs_count=6&theme=highcontrast" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IamJulioC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Júlio's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJulioC&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
