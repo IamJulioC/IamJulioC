@@ -7,14 +7,9 @@
 ### 📊 GitHub Stats & Commit Activity
 
 <div align="center">
-  <!-- Gráfico de Atividade de Commits (Substitui o Streak e evita erros) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamJulioC&theme=tokyonight&hide_border=true&area=true" alt="Júlio's Activity Graph" />
-  
-  <br /><br />
-
-  <!-- Cards de Estatísticas Gerais e Linguagens -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IamJulioC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Júlio's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJulioC&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <!-- Status visual de atividade sem depender de servidores Vercel instáveis -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IamJulioC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Júlio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJulioC&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -64,49 +59,3 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Stacks & Tools
-
-**Languages & Frameworks**
-<div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</div>
-
-<br />
-
-**Databases, Infrastructure & Tools**
-<div>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
-
----
-
-### 📫 Connect with me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/iamjulioc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iamjulioc1806@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/iamjulioc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
