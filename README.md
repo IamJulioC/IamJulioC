@@ -1,12 +1,18 @@
 # Hi, I'm Júlio César 👋
 
-> Junior Software Developer | .NET, C#, Angular & Architecture
+> Support Leader & Junior Software Developer | .NET, C#, Angular & Architecture
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Commit Activity
 
 <div align="center">
+  <!-- Card de Cadência Diária / Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamJulioC&theme=tokyonight&hide_border=true" alt="Júlio's Commit Streak" />
+  
+  <br /><br />
+
+  <!-- Cards de Estatísticas Gerais e Linguagens -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=IamJulioC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Júlio's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJulioC&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
@@ -20,7 +26,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📌 Mars Coding / Zenith CRM</h3>
       <p align="center">
-         CRM robusto desenvolvido em .NET 8 / C# com Entity Framework Core, integração via MCP e front-end em Angular.
+         CRM desenvolvido em .NET 8 / C# com Entity Framework Core, integração via MCP e front-end em Angular.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -31,7 +37,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📌 Escola API</h3>
       <p align="center">
-        API Web para gestão escolar implementada utilizando princípios de Domain-Driven Design (DDD) e Onion Architecture.
+        API Web para gestão escolar desenvolvida utilizando Domain-Driven Design (DDD) e Onion Architecture.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -44,7 +50,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📌 NFL Minimal API</h3>
       <p align="center">
-        API leve de dados da NFL construída com Minimal APIs em .NET 8 focando em alta performance e baixa latência.
+        API de dados da NFL construída com Minimal APIs no .NET 8 focando em alta performance e estrutura enxuta.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -54,7 +60,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📌 Mario Kart JS</h3>
       <p align="center">
-        Simulador de corridas em linha de comando (CLI) desenvolvido para praticar regras de negócio assíncronas em Node.js.
+        Simulador de corridas em linha de comando (CLI) desenvolvido para praticar lógica assíncrona com Node.js.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
@@ -80,7 +86,7 @@
 
 <br />
 
-**Databases & Infrastructure**
+**Databases, Infrastructure & Tools**
 <div>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
